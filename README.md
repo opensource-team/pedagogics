@@ -1,2 +1,2 @@
 # pedagogics
-尝试一下github合作
+在github上进行合作
